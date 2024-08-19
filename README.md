@@ -54,4 +54,10 @@ Directory structure should be as follows.
 
 ## Inference
 
+Reference scripts to convert checkpoints for inference.
+```
+python scripts/prepare_gemma2_for_submission.py
+python scripts/prepare_llama3_for_submission.py
+```
+
 [Kaggle Notebook](https://www.kaggle.com/code/tascj0/lmsys-0805)
